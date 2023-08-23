@@ -1,0 +1,26 @@
+h1 {
+  font-family: Verdana, "Times New Roman", sans-serif;
+  font-size: 50px;
+}
+
+img {
+  width: 1000px;
+  height: auto;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+ul,
+ol {
+  font-size: 20px;
+}

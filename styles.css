@@ -1,0 +1,26 @@
+h1,
+ul {
+  font-family: Verdana, "Times New Roman", sans-serif;
+  color: black;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+ul {
+  font-size: 30px;
+}
+
+#food-name {
+  font-weight: bold;
+}
+
+img {
+  width: 1000px;
+  height: auto;
+}
+
+.description {
+  font-size: 22px;
+}
