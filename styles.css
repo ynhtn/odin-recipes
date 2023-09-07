@@ -1,10 +1,10 @@
 h1,
 ul {
   font-family: Verdana, "Times New Roman", sans-serif;
-  color: black;
 }
 
 h1 {
+  width: 400px;
   font-size: 50px;
 }
 
@@ -12,8 +12,16 @@ ul {
   font-size: 30px;
 }
 
+#container {
+  background-color: #F5F5F5;
+  width: 1300px;
+  margin: 0 0 20px;
+  padding: 10px;
+}
+
 #food-name {
   font-weight: bold;
+  margin-top: 0;
 }
 
 img {
@@ -23,4 +31,11 @@ img {
 
 .description {
   font-size: 22px;
+}
+
+button {
+  text-align: center;
+  padding: 5px 20px;
+  font-size: 30px;
+  margin-left: 20px;
 }
